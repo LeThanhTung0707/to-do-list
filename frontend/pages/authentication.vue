@@ -10,7 +10,7 @@
           </div>
           <div class="flex flex-col justify-center items-start w-full py-5">
             <span class="text-[18px]">Password</span>
-            <input-auth type="password" icon="ri-user-line" placeholder="Type your password"></input-auth>
+            <input-auth type="password" icon="ri-lock-line" placeholder="Type your password"></input-auth>
           </div>
           <div class="flex justify-end items-end w-full px-5 text-[#666] cursor-pointer">
             <span>Forgot password?</span>
@@ -34,11 +34,11 @@
           </div>
           <div class="flex flex-col justify-center items-start w-full py-3">
             <span class="text-[18px]">Password</span>
-            <input-auth type="password" icon="ri-user-line" placeholder="Password"></input-auth>
+            <input-auth type="password" icon="ri-lock-line" placeholder="Password"></input-auth>
           </div>
           <div class="flex flex-col justify-center items-start w-full py-3">
             <span class="text-[18px]">Confirm Password</span>
-            <input-auth type="password" icon="ri-user-line" placeholder="Password Confirm"></input-auth>
+            <input-auth type="password" icon="ri-lock-line" placeholder="Password Confirm"></input-auth>
           </div>
           <div class=" relative w-full overflow-hidden rounded-[25px] h-[50px] px-5 bg-gradient-to-r from-[#659999] to-[#f4791f] mt-4 mx-5 cursor-pointer">
             <div class="text-white w-full h-full flex justify-center items-center font-bold">REGISTER</div>
@@ -46,7 +46,7 @@
         </div>
         <div class="flex justify-center items-center">
           <div class="cursor-default">
-            Dont have an account? <span class="text-[#f4791f] cursor-pointer" @click="trans">Sign up</span>
+            Already have an account? <span class="text-[#f4791f] cursor-pointer" @click="trans">Log in</span>
           </div>
         </div>
         
