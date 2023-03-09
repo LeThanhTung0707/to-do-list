@@ -15,7 +15,7 @@
           <div class="flex justify-end items-end w-full px-5 text-[#666] cursor-pointer">
             <span>Forgot password?</span>
           </div>
-          <div class=" relative w-full overflow-hidden rounded-[25px] h-[50px] px-5 bg-gradient-to-r from-[#659999] to-[#f4791f] mt-4 mx-5">
+          <div class=" relative w-full overflow-hidden rounded-[25px] h-[50px] px-5 bg-gradient-to-r from-[#659999] to-[#f4791f] mt-4 mx-5 cursor-pointer">
             <div class="text-white w-full h-full flex justify-center items-center font-bold">LOGIN</div>
           </div>
         </div>
@@ -40,7 +40,7 @@
             <span class="text-[18px]">Confirm Password</span>
             <input-auth type="password" icon="ri-user-line" placeholder="Password Confirm"></input-auth>
           </div>
-          <div class=" relative w-full overflow-hidden rounded-[25px] h-[50px] px-5 bg-gradient-to-r from-[#659999] to-[#f4791f] mt-4 mx-5">
+          <div class=" relative w-full overflow-hidden rounded-[25px] h-[50px] px-5 bg-gradient-to-r from-[#659999] to-[#f4791f] mt-4 mx-5 cursor-pointer">
             <div class="text-white w-full h-full flex justify-center items-center font-bold">REGISTER</div>
           </div>
         </div>

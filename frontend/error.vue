@@ -1,5 +1,5 @@
 <template>
-  <div class="flex justify-center items-center h-screen w-screen">
+  <div class="flex justify-center items-center h-screen w-screen bg-white">
     <div class="flex flex-col justify-center items-center gap-6 relative">
       <div class="text-[50px] md:text-[100px] lg:text-[200px] tracking-[0.3rem] 
       lg:tracking-[1rem] font-extrabold text-transparent bg-clip-text 
