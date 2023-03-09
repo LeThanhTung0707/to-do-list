@@ -1,16 +1,11 @@
 <template>
   <div>
-    <header>
-      
-    </header>
-  </div>
-  <div>
-    <slot />
+    123123
   </div>
 </template>
 
 <script setup lang="ts">
-
+definePageMeta({layout:'default'})
 </script>
 
 <style scoped>
